@@ -1,3 +1,2 @@
 # Sandbox
-Sandbox will be used for tests
-This is a test
+The sandbox repository will be used for tests and random programs
